@@ -1,6 +1,7 @@
 ---
 title: About CADRE
 layout: home
+nav_order: 1
 ---
 
 This is a test for creating a searchable data dictionary for CADRE-Cambridge in the format of a Jekyll site that uses the [Just the Docs] theme. 
